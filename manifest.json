@@ -1,0 +1,44 @@
+{
+  "id": "./",
+  "name": "ছায়ালোক – দৈনিক কাজের হিসাব",
+  "short_name": "কাজের হিসাব",
+  "description": "ছায়ালোকের শেড ও মাঠের দৈনিক কাজ এবং মেডিসিনের হিসাব রাখার অ্যাপ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#e9f0ea",
+  "theme_color": "#1c6b45",
+  "lang": "bn",
+  "dir": "ltr",
+  "categories": [
+    "business",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
